@@ -1,0 +1,5 @@
+{
+    "mongoURI": "mongodb+srv://kartikey:kartikey123@contactkeeper.z9qb3.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret": "secret"
+
+}
